@@ -6,3 +6,5 @@ various online and single player games.
 
 I can be reached on discord at Arronicus#5691, but am not a highly experienced coder, and so am not likely to be able to answer complex 
 or difficult questions. 
+
+https://discord.gg/J8u6Kdc  Discord link for the Egosoft discord server. Please please me here for comments/concerns. 
